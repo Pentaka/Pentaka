@@ -1,4 +1,4 @@
-<img align="middle" alt="GIF" src="https://cdn.dribbble.com/users/1643824/screenshots/3429154/untitled-4.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1643824/screenshots/3429154/untitled-4.gif" width="500" height="320" />
 <br/>
 
 ## I graduated from Computer Engineering 👩‍💻 undergraduate education 👨‍🎓, now I am an Artificial Intelligence Master Student 📚, I am dealing with Artificial Intelligence 🤖 and Game Development 🎮.
