@@ -1,6 +1,5 @@
 <img align="center" alt="GIF" src="https://i.gifer.com/6M8R.gif" width="500" height="320" />
-<br/>
-<img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1643824/screenshots/3429154/untitled-4.gif" width="500" height="320" />
+
 
 ## I graduated from Computer Engineering 👩‍💻 undergraduate education 👨‍🎓, now I am an Artificial Intelligence Master Student 📚, I am dealing with Artificial Intelligence 🤖 and Game Development 🎮.
 - 🔭I am currently dealing with my Master classes.
