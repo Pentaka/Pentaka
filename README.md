@@ -14,7 +14,7 @@ I graduated from Computer Engineering 👩‍💻 undergraduate education 👨�
 - 🌱 I am currently learning deep learning.
 - 👯 I want to collaborate with other AI Developers 🤖 and Game Developers 🎮.
 - 🥅 My goals for 2023 are to establish a company related to my field 🏢 and create impactful projects in the world 🌎.
-- ⚡ Fun fact: I love playing games 🎮, watching movies 🎞️, playing volleyball 🏐, and doing research.
+- ⚡ Fun fact: I love playing computer games 🎮, watching movies 🎞️, playing volleyball 🏐, and doing research.
 
 ## Current Projects
 
