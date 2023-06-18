@@ -10,7 +10,7 @@
 ## ⏲ What we are doing now:
 I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻,
-I also work as a FreeLancer 🆓.
+I also work as a FreeLancer 🆓. 
 
 <br />
 
