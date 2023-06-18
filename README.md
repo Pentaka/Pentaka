@@ -1,8 +1,8 @@
-<img align="center" alt="GIF" src="https://d2te1y9qx21itc.cloudfront.net/images/jobs/20160506/game-developer-intern.gif" width="100" height="120" />
-<br/>
 <img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1643824/screenshots/3429154/untitled-4.gif" width="500" height="320" />
+<br/>
 
 ## I graduated from Computer Engineering 👩‍💻 undergraduate education 👨‍🎓, now I am an Artificial Intelligence Master Student 📚, I am dealing with Artificial Intelligence 🤖 and Game Development 🎮.
+<img align="right" alt="GIF" src="https://d2te1y9qx21itc.cloudfront.net/images/jobs/20160506/game-developer-intern.gif" width="100" height="120" />
 - 🔭I am currently dealing with my Master classes.
 - 🌱 I am currently learning deep learning.
 - I want to collaborate with 👯 Other AI Developers 🤖 and Game Developers 🎮.
