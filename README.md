@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://r2j4y6x9.map2.ssl.hwcdn.net/wp-content/uploads/2017/03/Image-1-7.png" width="500" height="320" />
 
 ## I graduated from Computer Engineering 👩‍💻 undergraduate education 👨‍🎓, now I am an Artificial Intelligence Master Student 📚, I am dealing with Artificial Intelligence 🤖 and Game Development 🎮.
 - 🔭I am currently dealing with my Master classes.
