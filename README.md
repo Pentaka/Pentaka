@@ -55,7 +55,7 @@ I also work as a FreeLancer 🆓.
 <br />
 
 [instagram]: https://www.instagram.com/tahayesil09/
-[linkedin]: www.linkedin.com/in/taha-yasir-yeşil
+[linkedin]: https://www.linkedin.com/in/taha-yasir-ye%C5%9Fil/
 [medium]: https://demiribrahimtalha.medium.com/
 [gmail]: mailto:demiribrahimtalha@gmail.com
 [flutter]: https://flutter.dev/
