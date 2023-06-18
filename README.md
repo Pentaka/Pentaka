@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://d2te1y9qx21itc.cloudfront.net/images/jobs/20160506/game-developer-intern.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="https://d2te1y9qx21itc.cloudfront.net/images/jobs/20160506/game-developer-intern.gif" width="100" height="120" />
 <br/>
 <img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1643824/screenshots/3429154/untitled-4.gif" width="500" height="320" />
 
