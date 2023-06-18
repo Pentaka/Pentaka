@@ -1,16 +1,14 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
-- 🔭 I’m currently working on a large and special application.
-- 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
-- 🤔 I’m looking for help with Flutter front-end developer
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+## I graduated from Computer Engineering 👩‍💻 undergraduate education 👨‍🎓, now I am an Artificial Intelligence Master Student 📚, I am dealing with Artificial Intelligence 🤖 and Game Development 🎮.
+- 🔭I am currently dealing with my Master classes.
+- 🌱 I am currently learning deep learning.
+- I want to collaborate with 👯 Other AI Developers 🤖 and Game Developers 🎮.
+- 🥅 2023 Goals: Establishing a company related to my field 🏢 and creating projects that will make an impact in the world 🌎.
+- ⚡ Fun fact: I love playing games 🎮 , watching movies 🎞️, playing volleyball 🏐 and doing research.
 ## ⏲ What we are doing now:
-I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
-I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻,
-I also work as a FreeLancer 🆓. 
+I am developing a project for object detection 🚀 with Artificial Intelligence and writing articles 📚.
+I also work as FreeLancer 🆓.
 
 <br />
 
