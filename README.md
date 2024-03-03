@@ -29,12 +29,12 @@ I am currently working on a project for object detection 🚀 using Artificial I
 
 <br>
 <br>
-
+<center>
 ### GitHub Analytics 📊
 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pentaka&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 
-
+</center>
 <br />
 <br />
 
@@ -42,6 +42,6 @@ I am currently working on a project for object detection 🚀 using Artificial I
 [linkedin]: https://www.linkedin.com/in/taha-yasir-ye%C5%9Fil/
 [gmail]: mailto:tahayesil4040@gmail.com
 [github]: https://github.com/Pentaka
-<br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br />
 
 ![Pentaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pentaka&show_icons=true&theme=radical)
