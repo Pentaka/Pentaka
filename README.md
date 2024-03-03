@@ -44,4 +44,4 @@ I am currently working on a project for object detection 🚀 using Artificial I
 [github]: https://github.com/Pentaka
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pentaka&show_icons=true)
+![Pentaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pentaka&show_icons=true&theme=radical)
