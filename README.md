@@ -37,10 +37,11 @@ I am currently working on a project for object detection 🚀 using Artificial I
 
 <br />
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pentaka&show_icons=true)
+
 [instagram]: https://www.instagram.com/tahayesil09/
 [linkedin]: https://www.linkedin.com/in/taha-yasir-ye%C5%9Fil/
 [gmail]: mailto:tahayesil4040@gmail.com
 [github]: https://github.com/Pentaka
 <br />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pentaka&show_icons=true)
