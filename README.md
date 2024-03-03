@@ -33,7 +33,7 @@ I am currently working on a project for object detection 🚀 using Artificial I
 ### GitHub Analytics 📊
 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pentaka&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pentaka&show_icons=true)
 
 <br />
 <br />
