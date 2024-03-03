@@ -42,3 +42,6 @@ I am currently working on a project for object detection 🚀 using Artificial I
 [gmail]: mailto:tahayesil4040@gmail.com
 [github]: https://github.com/Pentaka
 <br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
