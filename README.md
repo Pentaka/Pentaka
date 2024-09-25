@@ -45,3 +45,13 @@ I am currently working on a project for object detection 🚀 using Artificial I
 <br /> <br /> <br /> <br /> <br /> <br />
 
 ![Pentaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pentaka&show_icons=true&theme=radical)
+<br/><br/><br/><br/>
+
+## GitHub Ziyaretçi Sayım
+
+![Visitor Count](https://api.visitorbadge.io/api/visitors?path=Pentaka&label=Visitor%20Count&style=flat&color=61dafb&logo=github)
+
+## GitHub Analytics 📊 
+
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pentaka&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+
