@@ -10,15 +10,15 @@ I graduated from Computer Engineering 👩‍💻 and I am currently pursuing a 
   <img align="right" alt="GIF" src="https://d2te1y9qx21itc.cloudfront.net/images/jobs/20160506/game-developer-intern.gif" width="120" height="120" />
 
 
-- 🔭 I am currently dealing with my Master classes.
-- 🌱 I am currently learning deep learning.
+- 🔭 I am currently dealing with my Master thesis (Meta-heuristic optimization algorithms).
+- 🌱 I am currently learning data science.
 - 👯 I want to collaborate with other AI Developers 🤖.
 - 🥅 My goals for 2024 are to establish a company related to my field 🏢 and create impactful projects in the world 🌎.
 - ⚡ Fun fact: I love playing computer games 🎮, watching movies 🎞️, playing volleyball 🏐, and doing research.
 
 ## Current Projects
 
-I am currently working on a project for object detection 🚀 using Artificial Intelligence and writing articles 📚. I also work as a Freelancer 🆓.
+I am currently working on a projects for data science 🚀 using Machine Learning and writing articles 📚. I also work as a Freelancer 🆓.
 
 ### 📩 Connect with Me
 
