@@ -4,7 +4,7 @@
 
 ## About Me
 
-I graduated from Computer Engineering 👩‍💻 undergraduate education 👨‍🎓 and I am currently pursuing a Master's degree in Artificial Intelligence 📚. My areas of interest include Artificial Intelligence 🤖 and Game Development 🎮.
+I graduated from Computer Engineering 👩‍💻 and I am currently pursuing a Master's degree in Artificial Intelligence 📚. My areas of interest include Data Science and Machine Learning 🤖.
 
  
   <img align="right" alt="GIF" src="https://d2te1y9qx21itc.cloudfront.net/images/jobs/20160506/game-developer-intern.gif" width="120" height="120" />
@@ -12,7 +12,7 @@ I graduated from Computer Engineering 👩‍💻 undergraduate education 👨�
 
 - 🔭 I am currently dealing with my Master classes.
 - 🌱 I am currently learning deep learning.
-- 👯 I want to collaborate with other AI Developers 🤖 and Game Developers 🎮.
+- 👯 I want to collaborate with other AI Developers 🤖.
 - 🥅 My goals for 2024 are to establish a company related to my field 🏢 and create impactful projects in the world 🌎.
 - ⚡ Fun fact: I love playing computer games 🎮, watching movies 🎞️, playing volleyball 🏐, and doing research.
 
