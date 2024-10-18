@@ -13,7 +13,7 @@ I graduated from Computer Engineering 👩‍💻 and I am currently pursuing a 
 - 🔭 I am currently dealing with my Master thesis (Meta-heuristic optimization algorithms).
 - 🌱 I am currently learning data science.
 - 👯 I want to collaborate with other AI Developers 🤖.
-- 🥅 My goals for 2024 are to establish a company related to my field 🏢 and create impactful projects in the world 🌎.
+- 🥅 My goals for 2024 are to work in a company related to my field 🏢 and produce impactful projects in the world 🌎.
 - ⚡ Fun fact: I love playing computer games 🎮, watching movies 🎞️, playing volleyball 🏐, and doing research.
 
 ## Current Projects
